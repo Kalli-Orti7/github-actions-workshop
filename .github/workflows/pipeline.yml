@@ -1,4 +1,3 @@
-Your YAML content here
 name: CI/CD Pipeline
 
 on: push
